@@ -1,0 +1,17 @@
+recording_id,phone,reference_length,first_attempt_returned,first_attempt_valid,first_attempt_error,gemma_edit_similarity,first_attempt_exact_match,first_attempt_order_similarity,retry_attempted,retry_returned,retry_valid,retry_error,retry_edit_similarity,retry_exact_match,random_mean_edit_similarity,random_std_edit_similarity,similarity_difference
+V01,iPhone 18 Pro,13,True,True,,1.0,True,1.0,False,False,,,,,0.1399999999999998,0.0828198272287542,0.8600000000000002
+V02,Samsung Galaxy S25 Edge,15,True,True,,0.2666666666666667,False,0.2666666666666667,False,False,,,,,0.1286666666666665,0.0684967660439062,0.1380000000000002
+V03,Samsung Galaxy S26 Ultra,10,True,True,,1.0,True,1.0,False,False,,,,,0.1779999999999999,0.1069125952837318,0.8220000000000001
+V04,iPhone 16e,6,True,True,,1.0,True,1.0,False,False,,,,,0.24,0.1761924261816354,0.76
+V05,Samsung Galaxy Z Fold 7,9,True,True,,0.7777777777777778,False,0.7777777777777778,False,False,,,,,0.2122222222222219,0.1150751908040818,0.5655555555555559
+V06,iPhone 16,12,True,True,,1.0,True,1.0,False,False,,,,,0.1566666666666667,0.1093804612232853,0.8433333333333333
+V07,Samsung S24 Ultra,15,True,True,,0.2666666666666667,False,0.2666666666666667,False,False,,,,,0.1493333333333332,0.0858678545205079,0.11733333333333351
+V08,Pixel 10 Pro,13,True,True,,0.6153846153846154,False,0.6153846153846154,False,False,,,,,0.1346153846153844,0.0897435897435897,0.48076923076923106
+V10,Samsung Galaxy S25 Ultra,13,True,True,,1.0,True,1.0,False,False,,,,,0.1338461538461536,0.0851259583493209,0.8661538461538464
+V11,Samsung Galaxy S25 Edge,11,True,True,,1.0,True,1.0,False,False,,,,,0.3218181818181819,0.0970557469440081,0.6781818181818181
+V12,Samsung Galaxy S26 Ultra,12,True,True,,1.0,True,1.0,False,False,,,,,0.2341666666666667,0.088394299525208,0.7658333333333334
+V13,Samsung Galaxy S25 Ultra,14,True,True,,1.0,True,1.0,False,False,,,,,0.2514285714285715,0.083398243118587,0.7485714285714284
+V14,Samsung Galaxy S21,8,True,True,,0.75,False,0.75,False,False,,,,,0.3,0.1317615691736824,0.45
+V15,Pixel 10,10,True,True,,1.0,True,1.0,False,False,,,,,0.3389999999999999,0.1003981970943601,0.661
+V18,Google Pixel 8 Pro,8,True,True,,1.0,True,1.0,False,False,,,,,0.2275,0.150105181977724,0.7725
+V20,iPhone Air,19,True,True,,1.0,True,1.0,False,False,,,,,0.228421052631579,0.0653097876668677,0.771578947368421

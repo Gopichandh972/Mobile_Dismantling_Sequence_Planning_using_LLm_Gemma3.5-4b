@@ -1,0 +1,9 @@
+{
+  "baseline": "random_shuffle",
+  "trials_per_recording": 100,
+  "recordings": 20,
+  "mean_edit_similarity": 0.21823024344076974,
+  "std_edit_similarity_across_all_trials": 0.1280803070840638,
+  "exact_match_rate": 0.0,
+  "note": "Random order is a baseline, not a physically informed disassembly planner. Compare models on the same recordings."
+}

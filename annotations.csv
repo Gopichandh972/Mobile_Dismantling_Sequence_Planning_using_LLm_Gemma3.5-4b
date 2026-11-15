@@ -1,0 +1,376 @@
+recording_id,phone,start,end,start_seconds,end_seconds,duration_seconds,operation,source_line
+V01,iPhone 18 Pro,0:00,1:28,0,88,88,Noise,4
+V01,iPhone 18 Pro,1:28,1:36,88,96,8,Bottom screw removal,5
+V01,iPhone 18 Pro,1:36,1:55,96,115,19,Noise,6
+V01,iPhone 18 Pro,1:55,2:12,115,132,17,Back window removal,7
+V01,iPhone 18 Pro,2:12,2:16,132,136,4,Back glass opening,8
+V01,iPhone 18 Pro,2:16,2:38,136,158,22,Noise,9
+V01,iPhone 18 Pro,2:38,2:46,158,166,8,Wireless charger removal,10
+V01,iPhone 18 Pro,2:46,4:50,166,290,124,Noise,11
+V01,iPhone 18 Pro,4:50,4:58,290,298,8,Display removal,12
+V01,iPhone 18 Pro,4:58,5:45,298,345,47,Noise,13
+V01,iPhone 18 Pro,5:45,6:02,345,362,17,Vapor chamber removal,14
+V01,iPhone 18 Pro,6:02,6:22,362,382,20,Noise,15
+V01,iPhone 18 Pro,6:22,6:29,382,389,7,Battery removal,16
+V01,iPhone 18 Pro,6:29,7:04,389,424,35,Noise,17
+V01,iPhone 18 Pro,7:04,7:28,424,448,24,Charging port removal,18
+V01,iPhone 18 Pro,7:28,7:35,448,455,7,Speaker removal,19
+V01,iPhone 18 Pro,7:35,8:22,455,502,47,Noise,20
+V01,iPhone 18 Pro,8:22,8:30,502,510,8,Front camera removal,21
+V01,iPhone 18 Pro,8:30,8:38,510,518,8,Motherboard removal,22
+V01,iPhone 18 Pro,8:38,8:48,518,528,10,Rear camera removal,23
+V01,iPhone 18 Pro,8:48,9:43,528,583,55,Noise,24
+V01,iPhone 18 Pro,9:43,10:15,583,615,32,Rear camera module separation,25
+V01,iPhone 18 Pro,10:15,11:11,615,671,56,Noise,26
+V02,Samsung Galaxy S25 Edge,0:00,1:25,0,85,85,Noise,31
+V02,Samsung Galaxy S25 Edge,1:25,1:31,85,91,6,Camera ring removal,32
+V02,Samsung Galaxy S25 Edge,1:31,2:08,91,128,37,Noise,33
+V02,Samsung Galaxy S25 Edge,2:08,2:18,128,138,10,Back glass heating,34
+V02,Samsung Galaxy S25 Edge,2:18,2:32,138,152,14,Back glass removal,35
+V02,Samsung Galaxy S25 Edge,2:32,2:53,152,173,21,Noise,36
+V02,Samsung Galaxy S25 Edge,2:53,3:45,173,225,52,Noise,37
+V02,Samsung Galaxy S25 Edge,3:45,3:56,225,236,11,Noise,38
+V02,Samsung Galaxy S25 Edge,3:56,4:02,236,242,6,Wireless charging coil removal,39
+V02,Samsung Galaxy S25 Edge,4:02,4:12,242,252,10,Noise,40
+V02,Samsung Galaxy S25 Edge,4:12,4:19,252,259,7,Motherboard connector disconnection,41
+V02,Samsung Galaxy S25 Edge,4:19,4:28,259,268,9,Front camera removal,42
+V02,Samsung Galaxy S25 Edge,4:28,4:50,268,290,22,Noise,43
+V02,Samsung Galaxy S25 Edge,4:50,5:09,290,309,19,Camera module removal / replacement test,44
+V02,Samsung Galaxy S25 Edge,5:09,6:15,309,375,66,Noise,45
+V02,Samsung Galaxy S25 Edge,6:15,6:28,375,388,13,Battery removal,46
+V02,Samsung Galaxy S25 Edge,6:28,6:49,388,409,21,Noise,47
+V02,Samsung Galaxy S25 Edge,6:49,6:57,409,417,8,SIM tray removal,48
+V02,Samsung Galaxy S25 Edge,6:57,7:15,417,435,18,Sub-board removal,49
+V02,Samsung Galaxy S25 Edge,7:15,7:26,435,446,11,USB-C port removal,50
+V02,Samsung Galaxy S25 Edge,7:26,7:32,446,452,6,Noise,51
+V02,Samsung Galaxy S25 Edge,7:32,7:36,452,456,4,Display heating,52
+V02,Samsung Galaxy S25 Edge,7:36,7:45,456,465,9,Display removal,53
+V02,Samsung Galaxy S25 Edge,7:45,7:51,465,471,6,Display removal,54
+V02,Samsung Galaxy S25 Edge,7:51,8:02,471,482,11,Noise,55
+V02,Samsung Galaxy S25 Edge,8:02,8:05,482,485,3,Graphite film removal,56
+V02,Samsung Galaxy S25 Edge,8:05,8:47,485,527,42,Noise,57
+V03,Samsung Galaxy S26 Ultra,0:00,3:43,0,223,223,Noise,62
+V03,Samsung Galaxy S26 Ultra,3:43,3:52,223,232,9,Back glass opening,63
+V03,Samsung Galaxy S26 Ultra,3:52,4:07,232,247,15,Back glass removal,64
+V03,Samsung Galaxy S26 Ultra,4:07,5:30,247,330,83,Noise,65
+V03,Samsung Galaxy S26 Ultra,5:30,5:35,330,335,5,Wireless charging cover removal,66
+V03,Samsung Galaxy S26 Ultra,5:35,5:45,335,345,10,Upper speaker removal / battery disconnection,67
+V03,Samsung Galaxy S26 Ultra,5:45,6:12,345,372,27,Noise,68
+V03,Samsung Galaxy S26 Ultra,6:12,6:22,372,382,10,Battery connector disconnection,69
+V03,Samsung Galaxy S26 Ultra,6:22,6:40,382,400,18,Cable disconnection,70
+V03,Samsung Galaxy S26 Ultra,6:40,6:51,400,411,11,Charging port and SIM tray removal,71
+V03,Samsung Galaxy S26 Ultra,6:51,7:31,411,451,40,Noise,72
+V03,Samsung Galaxy S26 Ultra,7:31,7:37,451,457,6,Battery removal,73
+V03,Samsung Galaxy S26 Ultra,7:37,8:24,457,504,47,Noise,74
+V03,Samsung Galaxy S26 Ultra,8:24,8:33,504,513,9,Motherboard removal,75
+V03,Samsung Galaxy S26 Ultra,8:33,8:55,513,535,22,Noise,76
+V03,Samsung Galaxy S26 Ultra,8:55,9:12,535,552,17,Display removal,77
+V03,Samsung Galaxy S26 Ultra,9:12,10:05,552,605,53,Noise,78
+V04,iPhone 16e,0:00,1:42,0,102,102,Noise,83
+V04,iPhone 16e,1:42,1:50,102,110,8,Back glass heating,84
+V04,iPhone 16e,1:50,1:57,110,117,7,Back glass separation,85
+V04,iPhone 16e,1:57,2:30,117,150,33,Noise,86
+V04,iPhone 16e,2:30,2:46,150,166,16,Back glass removal,87
+V04,iPhone 16e,2:46,3:32,166,212,46,Noise,88
+V04,iPhone 16e,3:32,3:49,212,229,17,Battery removal,89
+V04,iPhone 16e,3:49,5:24,229,324,95,Noise,90
+V04,iPhone 16e,5:24,5:36,324,336,12,Motherboard removal,91
+V04,iPhone 16e,5:36,7:21,336,441,105,Noise,92
+V04,iPhone 16e,7:21,7:54,441,474,33,Display removal,93
+V04,iPhone 16e,7:54,10:07,474,607,133,Noise,94
+V05,Samsung Galaxy Z Fold 7,0:00,2:04,0,124,124,Noise,99
+V05,Samsung Galaxy Z Fold 7,2:04,2:42,124,162,38,Back glass and outer display opening,100
+V05,Samsung Galaxy Z Fold 7,2:42,3:43,162,223,61,Noise,101
+V05,Samsung Galaxy Z Fold 7,3:43,4:44,223,284,61,Outer display removal,102
+V05,Samsung Galaxy Z Fold 7,4:44,5:08,284,308,24,Noise,103
+V05,Samsung Galaxy Z Fold 7,5:08,5:14,308,314,6,Front display cover removal,104
+V05,Samsung Galaxy Z Fold 7,5:14,5:39,314,339,25,Noise,105
+V05,Samsung Galaxy Z Fold 7,5:39,5:57,339,357,18,Speaker removal,106
+V05,Samsung Galaxy Z Fold 7,5:57,6:06,357,366,9,Display connector disconnection,107
+V05,Samsung Galaxy Z Fold 7,6:06,6:45,366,405,39,Noise,108
+V05,Samsung Galaxy Z Fold 7,6:45,7:02,405,422,17,Battery removal,109
+V05,Samsung Galaxy Z Fold 7,7:02,8:07,422,487,65,Noise,110
+V05,Samsung Galaxy Z Fold 7,8:07,8:17,487,497,10,Motherboard removal,111
+V05,Samsung Galaxy Z Fold 7,8:17,8:51,497,531,34,Noise,112
+V05,Samsung Galaxy Z Fold 7,8:51,9:17,531,557,26,Battery removal,113
+V05,Samsung Galaxy Z Fold 7,9:17,9:56,557,596,39,Noise,114
+V05,Samsung Galaxy Z Fold 7,9:56,10:15,596,615,19,Inner display removal,115
+V05,Samsung Galaxy Z Fold 7,10:15,11:38,615,698,83,Noise,116
+V06,iPhone 16,0:00,2:39,0,159,159,Noise,120
+V06,iPhone 16,2:39,2:55,159,175,16,Bottom screw removal,121
+V06,iPhone 16,2:55,3:04,175,184,9,Noise,122
+V06,iPhone 16,3:04,3:30,184,210,26,Back glass heating,123
+V06,iPhone 16,3:30,4:33,210,273,63,Back glass removal,124
+V06,iPhone 16,4:33,5:05,273,305,32,Noise,125
+V06,iPhone 16,5:05,5:21,305,321,16,Back glass disconnection,126
+V06,iPhone 16,5:21,6:48,321,408,87,Noise,127
+V06,iPhone 16,6:48,7:04,408,424,16,Battery removal attempt,128
+V06,iPhone 16,7:04,7:28,424,448,24,Noise,129
+V06,iPhone 16,7:28,7:39,448,459,11,Battery removal attempt,130
+V06,iPhone 16,7:39,8:08,459,488,29,Noise,131
+V06,iPhone 16,8:08,8:54,488,534,46,Noise,132
+V06,iPhone 16,8:54,9:19,534,559,25,Battery removal,133
+V06,iPhone 16,9:19,9:26,559,566,7,Front camera and sensor removal,134
+V06,iPhone 16,9:26,9:35,566,575,9,Earpiece speaker removal,135
+V06,iPhone 16,9:35,9:51,575,591,16,Motherboard removal,136
+V06,iPhone 16,9:51,10:08,591,608,17,Noise,137
+V06,iPhone 16,10:08,10:17,608,617,9,Graphite film removal,138
+V06,iPhone 16,10:17,10:25,617,625,8,Screen removal,139
+V06,iPhone 16,10:25,12:50,625,770,145,Noise,140
+V07,Samsung S24 Ultra,0:00,1:21,0,81,81,Noise,144
+V07,Samsung S24 Ultra,1:21,1:24,81,84,3,Front screen protector removal,145
+V07,Samsung S24 Ultra,1:24,1:45,84,105,21,Noise,146
+V07,Samsung S24 Ultra,1:45,2:26,105,146,41,Back glass removal,147
+V07,Samsung S24 Ultra,2:26,3:30,146,210,64,Noise,148
+V07,Samsung S24 Ultra,3:30,3:53,210,233,23,Screw removal,149
+V07,Samsung S24 Ultra,3:53,4:00,233,240,7,Cover removal,150
+V07,Samsung S24 Ultra,4:00,4:07,240,247,7,Wireless charging coil removal,151
+V07,Samsung S24 Ultra,4:07,4:15,247,255,8,Battery disconnection,152
+V07,Samsung S24 Ultra,4:15,4:38,255,278,23,Noise,153
+V07,Samsung S24 Ultra,4:38,4:54,278,294,16,Earpiece speaker removal,154
+V07,Samsung S24 Ultra,4:54,5:10,294,310,16,Flex cable disconnection,155
+V07,Samsung S24 Ultra,5:10,5:41,310,341,31,Battery removal,156
+V07,Samsung S24 Ultra,5:41,6:13,341,373,32,Noise,157
+V07,Samsung S24 Ultra,6:13,6:34,373,394,21,Charging port board removal,158
+V07,Samsung S24 Ultra,6:34,6:42,394,402,8,SIM tray removal,159
+V07,Samsung S24 Ultra,6:42,7:22,402,442,40,Noise,160
+V07,Samsung S24 Ultra,7:22,7:39,442,459,17,Battery removal,161
+V07,Samsung S24 Ultra,7:39,7:47,459,467,8,Noise,162
+V07,Samsung S24 Ultra,7:47,8:02,467,482,15,Back glass vinyl removal,163
+V07,Samsung S24 Ultra,8:02,8:19,482,499,17,Camera glass removal,164
+V07,Samsung S24 Ultra,8:19,8:43,499,523,24,Noise,165
+V07,Samsung S24 Ultra,8:43,8:51,523,531,8,Camera glass reassembly,166
+V07,Samsung S24 Ultra,8:51,10:09,531,609,78,Noise,167
+V08,Pixel 10 Pro,0:00,3:12,0,192,192,Noise,171
+V08,Pixel 10 Pro,3:12,3:33,192,213,21,Display removal,172
+V08,Pixel 10 Pro,3:33,3:58,213,238,25,Noise,173
+V08,Pixel 10 Pro,3:58,4:43,238,283,45,Back glass removal,174
+V08,Pixel 10 Pro,4:43,4:55,283,295,12,Noise,175
+V08,Pixel 10 Pro,4:55,5:12,295,312,17,Back glass removal,176
+V08,Pixel 10 Pro,5:12,5:42,312,342,30,Noise,177
+V08,Pixel 10 Pro,5:42,5:57,342,357,15,Flex cable disconnection,178
+V08,Pixel 10 Pro,5:57,6:24,357,384,27,Back glass component removal,179
+V08,Pixel 10 Pro,6:24,6:32,384,392,8,Wireless charging coil reconnection,180
+V08,Pixel 10 Pro,6:32,7:03,392,423,31,Noise,181
+V08,Pixel 10 Pro,7:03,7:13,423,433,10,Loudspeaker removal,182
+V08,Pixel 10 Pro,7:13,7:21,433,441,8,Vibration motor removal,183
+V08,Pixel 10 Pro,7:21,7:40,441,460,19,Charging port board removal,184
+V08,Pixel 10 Pro,7:40,8:09,460,489,29,Battery removal,185
+V08,Pixel 10 Pro,8:09,8:56,489,536,47,Noise,186
+V08,Pixel 10 Pro,8:56,9:12,536,552,16,Motherboard screw removal,187
+V08,Pixel 10 Pro,9:12,9:31,552,571,19,Flex cable disconnection and SIM tray removal,188
+V08,Pixel 10 Pro,9:31,9:47,571,587,16,Motherboard removal,189
+V08,Pixel 10 Pro,9:47,10:58,587,658,71,Noise,190
+V09,iPhone 17 Pro,0:00,1:15,0,75,75,Noise,194
+V09,iPhone 17 Pro,1:15,1:23,75,83,8,Bottom screw removal,195
+V09,iPhone 17 Pro,1:23,2:59,83,179,96,Noise,196
+V09,iPhone 17 Pro,2:59,4:05,179,245,66,Back glass removal,197
+V09,iPhone 17 Pro,4:05,4:11,245,251,6,Back glass disconnection,198
+V09,iPhone 17 Pro,4:11,5:04,251,304,53,Noise,199
+V09,iPhone 17 Pro,5:04,5:23,304,323,19,Display removal,200
+V09,iPhone 17 Pro,5:23,6:25,323,385,62,Noise,201
+V09,iPhone 17 Pro,6:25,6:28,385,388,3,Battery connector cover removal,202
+V09,iPhone 17 Pro,6:28,6:36,388,396,8,Battery connector access/removal,203
+V09,iPhone 17 Pro,6:36,6:43,396,403,7,Battery and display connector disconnection,204
+V09,iPhone 17 Pro,6:43,6:57,403,417,14,Noise,205
+V09,iPhone 17 Pro,6:57,7:10,417,430,13,Internal shield removal,206
+V09,iPhone 17 Pro,7:10,7:57,430,477,47,Noise,207
+V09,iPhone 17 Pro,7:57,8:06,477,486,9,Front camera removal,208
+V09,iPhone 17 Pro,8:06,8:15,486,495,9,Noise,209
+V09,iPhone 17 Pro,8:15,8:53,495,533,38,Earpiece speaker removal,210
+V09,iPhone 17 Pro,8:53,9:41,533,581,48,Noise,211
+V09,iPhone 17 Pro,9:41,9:49,581,589,8,Motherboard removal,212
+V09,iPhone 17 Pro,9:49,11:04,589,664,75,Noise,213
+V09,iPhone 17 Pro,11:04,11:10,664,670,6,Charging port removal,214
+V09,iPhone 17 Pro,11:10,11:17,670,677,7,Noise,215
+V09,iPhone 17 Pro,11:17,11:21,677,681,4,Battery removal,216
+V09,iPhone 17 Pro,11:21,12:12,681,732,51,Noise,217
+V10,Samsung Galaxy S25 Ultra,0:00,0:47,0,47,47,Noise,221
+V10,Samsung Galaxy S25 Ultra,0:47,0:53,47,53,6,Peel removal,222
+V10,Samsung Galaxy S25 Ultra,0:53,3:51,53,231,178,Noise,223
+V10,Samsung Galaxy S25 Ultra,3:51,4:14,231,254,23,Back glass removal,224
+V10,Samsung Galaxy S25 Ultra,4:14,4:50,254,290,36,Noise,225
+V10,Samsung Galaxy S25 Ultra,4:50,5:16,290,316,26,Shield/screw removal,226
+V10,Samsung Galaxy S25 Ultra,5:16,5:23,316,323,7,Noise,227
+V10,Samsung Galaxy S25 Ultra,5:23,5:29,323,329,6,Shield removal,228
+V10,Samsung Galaxy S25 Ultra,5:29,6:50,329,410,81,Noise,229
+V10,Samsung Galaxy S25 Ultra,6:50,6:54,410,414,4,S-Pen coil removal,230
+V10,Samsung Galaxy S25 Ultra,6:54,6:58,414,418,4,SIM tray removal,231
+V10,Samsung Galaxy S25 Ultra,6:58,7:08,418,428,10,Noise,232
+V10,Samsung Galaxy S25 Ultra,7:08,7:15,428,435,7,Battery and connector disconnection,233
+V10,Samsung Galaxy S25 Ultra,7:15,7:46,435,466,31,Noise,234
+V10,Samsung Galaxy S25 Ultra,7:46,8:02,466,482,16,Battery removal,235
+V10,Samsung Galaxy S25 Ultra,8:02,8:19,482,499,17,Noise,236
+V10,Samsung Galaxy S25 Ultra,8:19,8:24,499,504,5,Internal connector disconnection,237
+V10,Samsung Galaxy S25 Ultra,8:24,8:32,504,512,8,Motherboard removal,238
+V10,Samsung Galaxy S25 Ultra,8:32,9:01,512,541,29,Noise,239
+V10,Samsung Galaxy S25 Ultra,9:01,9:12,541,552,11,Bottom board screw removal,240
+V10,Samsung Galaxy S25 Ultra,9:12,9:19,552,559,7,Sub-board removal,241
+V10,Samsung Galaxy S25 Ultra,9:19,9:31,559,571,12,Noise,242
+V10,Samsung Galaxy S25 Ultra,9:31,9:37,571,577,6,Front camera removal,243
+V10,Samsung Galaxy S25 Ultra,9:37,10:03,577,603,26,Noise,244
+V11,Samsung Galaxy S25 Edge,0:00,0:53,0,53,53,Noise,250
+V11,Samsung Galaxy S25 Edge,0:53,1:13,53,73,20,Back glass removal,251
+V11,Samsung Galaxy S25 Edge,1:13,1:16,73,76,3,Screw removal,252
+V11,Samsung Galaxy S25 Edge,1:16,1:20,76,80,4,Graphite film removal,253
+V11,Samsung Galaxy S25 Edge,1:20,1:23,80,83,3,Noise,254
+V11,Samsung Galaxy S25 Edge,1:23,1:25,83,85,2,SIM tray removal,255
+V11,Samsung Galaxy S25 Edge,1:25,1:29,85,89,4,Screw removal,256
+V11,Samsung Galaxy S25 Edge,1:29,1:32,89,92,3,Speaker removal,257
+V11,Samsung Galaxy S25 Edge,1:32,1:54,92,114,22,Noise,258
+V11,Samsung Galaxy S25 Edge,1:54,1:57,114,117,3,Screw removal,259
+V11,Samsung Galaxy S25 Edge,1:57,2:06,117,126,9,Cable disconnection,260
+V11,Samsung Galaxy S25 Edge,2:06,2:20,126,140,14,Battery removal,261
+V11,Samsung Galaxy S25 Edge,2:20,2:39,140,159,19,Noise,262
+V11,Samsung Galaxy S25 Edge,2:39,2:46,159,166,7,Screw removal,263
+V11,Samsung Galaxy S25 Edge,2:46,3:00,166,180,14,Motherboard removal,264
+V11,Samsung Galaxy S25 Edge,3:00,5:59,180,359,179,Noise,265
+V12,Samsung Galaxy S26 Ultra,0:00,0:26,0,26,26,Noise,271
+V12,Samsung Galaxy S26 Ultra,0:26,0:31,26,31,5,S-Pen removal,272
+V12,Samsung Galaxy S26 Ultra,0:31,1:09,31,69,38,Noise,273
+V12,Samsung Galaxy S26 Ultra,1:09,1:44,69,104,35,Back glass removal,274
+V12,Samsung Galaxy S26 Ultra,1:44,1:47,104,107,3,Screw removal,275
+V12,Samsung Galaxy S26 Ultra,1:47,1:49,107,109,2,Graphite film removal,276
+V12,Samsung Galaxy S26 Ultra,1:49,1:55,109,115,6,Cable disconnection,277
+V12,Samsung Galaxy S26 Ultra,1:55,1:59,115,119,4,Screw removal,278
+V12,Samsung Galaxy S26 Ultra,1:59,2:01,119,121,2,Speaker removal,279
+V12,Samsung Galaxy S26 Ultra,2:01,2:07,121,127,6,Cable disconnection,280
+V12,Samsung Galaxy S26 Ultra,2:07,2:13,127,133,6,Cable removal,281
+V12,Samsung Galaxy S26 Ultra,2:13,2:30,133,150,17,Battery removal,282
+V12,Samsung Galaxy S26 Ultra,2:30,3:30,150,210,60,Noise,283
+V12,Samsung Galaxy S26 Ultra,3:30,3:35,210,215,5,Screw removal,284
+V12,Samsung Galaxy S26 Ultra,3:35,3:54,215,234,19,Motherboard removal,285
+V12,Samsung Galaxy S26 Ultra,3:54,8:38,234,518,284,Noise,286
+V13,Samsung Galaxy S25 Ultra,0:00,0:30,0,30,30,Noise,293
+V13,Samsung Galaxy S25 Ultra,0:30,0:32,30,32,2,S-Pen removal,294
+V13,Samsung Galaxy S25 Ultra,0:32,1:33,32,93,61,Noise,295
+V13,Samsung Galaxy S25 Ultra,1:33,2:17,93,137,44,Back glass removal,296
+V13,Samsung Galaxy S25 Ultra,2:17,2:20,137,140,3,Screw removal,297
+V13,Samsung Galaxy S25 Ultra,2:20,2:27,140,147,7,Graphite film removal,298
+V13,Samsung Galaxy S25 Ultra,2:27,2:36,147,156,9,Cable disconnection,299
+V13,Samsung Galaxy S25 Ultra,2:36,2:41,156,161,5,Screw removal,300
+V13,Samsung Galaxy S25 Ultra,2:41,2:45,161,165,4,Speaker removal,301
+V13,Samsung Galaxy S25 Ultra,2:45,2:49,165,169,4,Cable disconnection,302
+V13,Samsung Galaxy S25 Ultra,2:49,3:10,169,190,21,Battery removal,303
+V13,Samsung Galaxy S25 Ultra,3:10,3:45,190,225,35,Noise,304
+V13,Samsung Galaxy S25 Ultra,3:45,3:50,225,230,5,Screw removal,305
+V13,Samsung Galaxy S25 Ultra,3:50,4:00,230,240,10,SIM tray removal,306
+V13,Samsung Galaxy S25 Ultra,4:00,4:05,240,245,5,Motherboard removal,307
+V13,Samsung Galaxy S25 Ultra,4:05,4:07,245,247,2,Noise,308
+V13,Samsung Galaxy S25 Ultra,4:07,4:09,247,249,2,Screw removal,309
+V13,Samsung Galaxy S25 Ultra,4:09,4:16,249,256,7,Motherboard removal,310
+V13,Samsung Galaxy S25 Ultra,4:16,6:27,256,387,131,Noise,311
+V14,Samsung Galaxy S21,0:00,0:46,0,46,46,Noise,318
+V14,Samsung Galaxy S21,0:46,1:05,46,65,19,Back glass removal,319
+V14,Samsung Galaxy S21,1:05,1:07,65,67,2,Noise,320
+V14,Samsung Galaxy S21,1:07,1:09,67,69,2,Screw removal,321
+V14,Samsung Galaxy S21,1:09,1:14,69,74,5,Graphite film removal,322
+V14,Samsung Galaxy S21,1:14,1:25,74,85,11,Cable disconnection and cable removal,323
+V14,Samsung Galaxy S21,1:25,1:27,85,87,2,Motherboard removal,324
+V14,Samsung Galaxy S21,1:27,2:01,87,121,34,Noise,325
+V14,Samsung Galaxy S21,2:01,2:06,121,126,5,Screw removal,326
+V14,Samsung Galaxy S21,2:06,2:09,126,129,3,Motherboard removal,327
+V14,Samsung Galaxy S21,2:09,2:19,129,139,10,Noise,328
+V14,Samsung Galaxy S21,2:19,2:27,139,147,8,Battery removal,329
+V14,Samsung Galaxy S21,2:27,4:05,147,245,98,Noise,330
+V15,Pixel 10,0:00,0:20,0,20,20,Noise,336
+V15,Pixel 10,0:20,0:33,20,33,13,Back glass removal,337
+V15,Pixel 10,0:33,0:43,33,43,10,Screw removal,338
+V15,Pixel 10,0:43,0:47,43,47,4,Graphite film removal,339
+V15,Pixel 10,0:47,0:58,47,58,11,Noise,340
+V15,Pixel 10,0:58,1:15,58,75,17,Battery removal,341
+V15,Pixel 10,1:15,1:24,75,84,9,Noise,342
+V15,Pixel 10,1:24,1:32,84,92,8,Screw removal,343
+V15,Pixel 10,1:32,1:41,92,101,9,Speaker removal,344
+V15,Pixel 10,1:41,1:50,101,110,9,Screw removal,345
+V15,Pixel 10,1:50,1:53,110,113,3,Camera removal,346
+V15,Pixel 10,1:53,2:04,113,124,11,Noise,347
+V15,Pixel 10,2:04,2:15,124,135,11,Screw removal,348
+V15,Pixel 10,2:15,2:22,135,142,7,Motherboard removal,349
+V15,Pixel 10,2:22,4:52,142,292,150,Noise,350
+V16,Red Magic 11 Pro,0:00,0:43,0,43,43,Noise,357
+V16,Red Magic 11 Pro,0:43,0:53,43,53,10,Back glass heating and removal,358
+V16,Red Magic 11 Pro,0:53,1:19,53,79,26,Noise,359
+V16,Red Magic 11 Pro,1:19,1:27,79,87,8,Screw removal,360
+V16,Red Magic 11 Pro,1:27,1:33,87,93,6,Cable disconnection,361
+V16,Red Magic 11 Pro,1:33,1:42,93,102,9,Screw removal,362
+V16,Red Magic 11 Pro,1:42,1:54,102,114,12,Cable disconnection,363
+V16,Red Magic 11 Pro,1:54,2:26,114,146,32,Noise,364
+V16,Red Magic 11 Pro,2:26,2:37,146,157,11,Battery connector disconnection,365
+V16,Red Magic 11 Pro,2:37,3:06,157,186,29,Battery removal,366
+V16,Red Magic 11 Pro,3:06,3:26,186,206,20,Noise,367
+V16,Red Magic 11 Pro,3:26,3:35,206,215,9,Cable disconnection,368
+V16,Red Magic 11 Pro,3:35,3:40,215,220,5,Noise,369
+V16,Red Magic 11 Pro,3:40,3:57,220,237,17,Cable disconnection,370
+V16,Red Magic 11 Pro,3:57,4:05,237,245,8,Noise,371
+V16,Red Magic 11 Pro,4:05,4:14,245,254,9,Screw removal,372
+V16,Red Magic 11 Pro,4:14,4:25,254,265,11,Motherboard removal,373
+V16,Red Magic 11 Pro,4:25,6:08,265,368,103,Noise,374
+V17,iPhone 15 Pro Max,0:00,0:36,0,36,36,Noise,381
+V17,iPhone 15 Pro Max,0:36,0:41,36,41,5,Bottom screw removal,382
+V17,iPhone 15 Pro Max,0:41,0:46,41,46,5,Noise,383
+V17,iPhone 15 Pro Max,0:46,1:04,46,64,18,Display heating and removal,384
+V17,iPhone 15 Pro Max,1:04,1:16,64,76,12,Noise,385
+V17,iPhone 15 Pro Max,1:16,1:19,76,79,3,Screw removal,386
+V17,iPhone 15 Pro Max,1:19,1:23,79,83,4,Speaker removal,387
+V17,iPhone 15 Pro Max,1:23,1:27,83,87,4,Vibration motor removal,388
+V17,iPhone 15 Pro Max,1:27,1:29,87,89,2,Noise,389
+V17,iPhone 15 Pro Max,1:29,1:39,89,99,10,Battery removal,390
+V17,iPhone 15 Pro Max,1:39,1:48,99,108,9,Noise,391
+V17,iPhone 15 Pro Max,1:48,1:54,108,114,6,Cable disconnection,392
+V17,iPhone 15 Pro Max,1:54,1:59,114,119,5,Screw removal,393
+V17,iPhone 15 Pro Max,1:59,2:46,119,166,47,Noise,394
+V17,iPhone 15 Pro Max,2:46,2:56,166,176,10,Motherboard removal,395
+V17,iPhone 15 Pro Max,2:56,6:26,176,386,210,Noise,396
+V18,Google Pixel 8 Pro,0:00,0:53,0,53,53,Noise,403
+V18,Google Pixel 8 Pro,0:53,1:10,53,70,17,Display heating and removal,404
+V18,Google Pixel 8 Pro,1:10,1:19,70,79,9,Display connector disconnection,405
+V18,Google Pixel 8 Pro,1:19,2:31,79,151,72,Noise,406
+V18,Google Pixel 8 Pro,2:31,2:39,151,159,8,Battery connector disconnection,407
+V18,Google Pixel 8 Pro,2:39,2:57,159,177,18,Battery removal,408
+V18,Google Pixel 8 Pro,2:57,3:15,177,195,18,Noise,409
+V18,Google Pixel 8 Pro,3:15,3:25,195,205,10,Cable disconnection,410
+V18,Google Pixel 8 Pro,3:25,3:50,205,230,25,Noise,411
+V18,Google Pixel 8 Pro,3:50,3:54,230,234,4,Loudspeaker removal,412
+V18,Google Pixel 8 Pro,3:54,4:01,234,241,7,Motherboard removal,413
+V18,Google Pixel 8 Pro,4:01,4:07,241,247,6,Earpiece speaker removal,414
+V18,Google Pixel 8 Pro,4:07,5:51,247,351,104,Noise,415
+V19,iPhone 14,0:00,0:52,0,52,52,Noise,422
+V19,iPhone 14,0:52,1:01,52,61,9,Bottom screw removal,423
+V19,iPhone 14,1:01,1:08,61,68,7,Noise,424
+V19,iPhone 14,1:08,2:19,68,139,71,Back glass heating and removal,425
+V19,iPhone 14,2:19,2:24,139,144,5,Screw removal,426
+V19,iPhone 14,2:24,2:39,144,159,15,Battery connector disconnection,427
+V19,iPhone 14,2:39,2:42,159,162,3,Screw removal,428
+V19,iPhone 14,2:42,2:46,162,166,4,Cable disconnection,429
+V19,iPhone 14,2:46,2:49,166,169,3,Back glass removal,430
+V19,iPhone 14,2:49,3:29,169,209,40,Battery removal,431
+V19,iPhone 14,3:29,5:07,209,307,98,Noise,432
+V20,iPhone Air,0:00,0:33,0,33,33,Noise,440
+V20,iPhone Air,0:33,0:41,33,41,8,Bottom screw removal,441
+V20,iPhone Air,0:41,0:50,41,50,9,Noise,442
+V20,iPhone Air,0:50,1:01,50,61,11,Back glass removal,443
+V20,iPhone Air,1:01,1:37,61,97,36,Noise,444
+V20,iPhone Air,1:37,1:41,97,101,4,Screw removal,445
+V20,iPhone Air,1:41,1:44,101,104,3,Cable disconnection,446
+V20,iPhone Air,1:44,2:19,104,139,35,Noise,447
+V20,iPhone Air,2:19,2:23,139,143,4,Screw removal,448
+V20,iPhone Air,2:23,2:26,143,146,3,Battery connector disconnection,449
+V20,iPhone Air,2:26,2:54,146,174,28,Noise,450
+V20,iPhone Air,2:54,3:09,174,189,15,Battery removal,451
+V20,iPhone Air,3:09,3:56,189,236,47,Noise,452
+V20,iPhone Air,3:56,4:04,236,244,8,Screw removal,453
+V20,iPhone Air,4:04,4:12,244,252,8,Cable disconnection,454
+V20,iPhone Air,4:12,4:24,252,264,12,USB-C port removal,455
+V20,iPhone Air,4:24,6:05,264,365,101,Noise,456
+V20,iPhone Air,6:05,6:11,365,371,6,Screw removal,457
+V20,iPhone Air,6:11,6:16,371,376,5,Cable disconnection,458
+V20,iPhone Air,6:16,6:26,376,386,10,Front camera removal,459
+V20,iPhone Air,6:26,6:39,386,399,13,Screw removal,460
+V20,iPhone Air,6:39,6:51,399,411,12,Noise,461
+V20,iPhone Air,6:51,6:56,411,416,5,Speaker removal,462
+V20,iPhone Air,6:56,7:02,416,422,6,Motherboard connector disconnection,463
+V20,iPhone Air,7:02,7:10,422,430,8,Motherboard screw removal,464
+V20,iPhone Air,7:10,7:16,430,436,6,Display connector disconnection,465
+V20,iPhone Air,7:16,7:20,436,440,4,Motherboard removal,466
+V20,iPhone Air,7:20,11:49,440,709,269,Noise,467

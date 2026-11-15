@@ -1,0 +1,351 @@
+[
+  {
+    "recording_id": "V01",
+    "phone": "iPhone 18 Pro",
+    "operations": [
+      "Bottom screw removal",
+      "Back window removal",
+      "Back glass opening",
+      "Wireless charger removal",
+      "Display removal",
+      "Vapor chamber removal",
+      "Battery removal",
+      "Charging port removal",
+      "Speaker removal",
+      "Front camera removal",
+      "Motherboard removal",
+      "Rear camera removal",
+      "Rear camera module separation"
+    ]
+  },
+  {
+    "recording_id": "V02",
+    "phone": "Samsung Galaxy S25 Edge",
+    "operations": [
+      "Camera ring removal",
+      "Back glass heating",
+      "Back glass removal",
+      "Wireless charging coil removal",
+      "Motherboard connector disconnection",
+      "Front camera removal",
+      "Camera module removal / replacement test",
+      "Battery removal",
+      "SIM tray removal",
+      "Sub-board removal",
+      "USB-C port removal",
+      "Display heating",
+      "Display removal",
+      "Display removal",
+      "Graphite film removal"
+    ]
+  },
+  {
+    "recording_id": "V03",
+    "phone": "Samsung Galaxy S26 Ultra",
+    "operations": [
+      "Back glass opening",
+      "Back glass removal",
+      "Wireless charging cover removal",
+      "Upper speaker removal / battery disconnection",
+      "Battery connector disconnection",
+      "Cable disconnection",
+      "Charging port and SIM tray removal",
+      "Battery removal",
+      "Motherboard removal",
+      "Display removal"
+    ]
+  },
+  {
+    "recording_id": "V04",
+    "phone": "iPhone 16e",
+    "operations": [
+      "Back glass heating",
+      "Back glass separation",
+      "Back glass removal",
+      "Battery removal",
+      "Motherboard removal",
+      "Display removal"
+    ]
+  },
+  {
+    "recording_id": "V05",
+    "phone": "Samsung Galaxy Z Fold 7",
+    "operations": [
+      "Back glass and outer display opening",
+      "Outer display removal",
+      "Front display cover removal",
+      "Speaker removal",
+      "Display connector disconnection",
+      "Battery removal",
+      "Motherboard removal",
+      "Battery removal",
+      "Inner display removal"
+    ]
+  },
+  {
+    "recording_id": "V06",
+    "phone": "iPhone 16",
+    "operations": [
+      "Bottom screw removal",
+      "Back glass heating",
+      "Back glass removal",
+      "Back glass disconnection",
+      "Battery removal attempt",
+      "Battery removal attempt",
+      "Battery removal",
+      "Front camera and sensor removal",
+      "Earpiece speaker removal",
+      "Motherboard removal",
+      "Graphite film removal",
+      "Screen removal"
+    ]
+  },
+  {
+    "recording_id": "V07",
+    "phone": "Samsung S24 Ultra",
+    "operations": [
+      "Front screen protector removal",
+      "Back glass removal",
+      "Screw removal",
+      "Cover removal",
+      "Wireless charging coil removal",
+      "Battery disconnection",
+      "Earpiece speaker removal",
+      "Flex cable disconnection",
+      "Battery removal",
+      "Charging port board removal",
+      "SIM tray removal",
+      "Battery removal",
+      "Back glass vinyl removal",
+      "Camera glass removal",
+      "Camera glass reassembly"
+    ]
+  },
+  {
+    "recording_id": "V08",
+    "phone": "Pixel 10 Pro",
+    "operations": [
+      "Display removal",
+      "Back glass removal",
+      "Back glass removal",
+      "Flex cable disconnection",
+      "Back glass component removal",
+      "Wireless charging coil reconnection",
+      "Loudspeaker removal",
+      "Vibration motor removal",
+      "Charging port board removal",
+      "Battery removal",
+      "Motherboard screw removal",
+      "Flex cable disconnection and SIM tray removal",
+      "Motherboard removal"
+    ]
+  },
+  {
+    "recording_id": "V09",
+    "phone": "iPhone 17 Pro",
+    "operations": [
+      "Bottom screw removal",
+      "Back glass removal",
+      "Back glass disconnection",
+      "Display removal",
+      "Battery connector cover removal",
+      "Battery connector access/removal",
+      "Battery and display connector disconnection",
+      "Internal shield removal",
+      "Front camera removal",
+      "Earpiece speaker removal",
+      "Motherboard removal",
+      "Charging port removal",
+      "Battery removal"
+    ]
+  },
+  {
+    "recording_id": "V10",
+    "phone": "Samsung Galaxy S25 Ultra",
+    "operations": [
+      "Peel removal",
+      "Back glass removal",
+      "Shield/screw removal",
+      "Shield removal",
+      "S-Pen coil removal",
+      "SIM tray removal",
+      "Battery and connector disconnection",
+      "Battery removal",
+      "Internal connector disconnection",
+      "Motherboard removal",
+      "Bottom board screw removal",
+      "Sub-board removal",
+      "Front camera removal"
+    ]
+  },
+  {
+    "recording_id": "V11",
+    "phone": "Samsung Galaxy S25 Edge",
+    "operations": [
+      "Back glass removal",
+      "Screw removal",
+      "Graphite film removal",
+      "SIM tray removal",
+      "Screw removal",
+      "Speaker removal",
+      "Screw removal",
+      "Cable disconnection",
+      "Battery removal",
+      "Screw removal",
+      "Motherboard removal"
+    ]
+  },
+  {
+    "recording_id": "V12",
+    "phone": "Samsung Galaxy S26 Ultra",
+    "operations": [
+      "S-Pen removal",
+      "Back glass removal",
+      "Screw removal",
+      "Graphite film removal",
+      "Cable disconnection",
+      "Screw removal",
+      "Speaker removal",
+      "Cable disconnection",
+      "Cable removal",
+      "Battery removal",
+      "Screw removal",
+      "Motherboard removal"
+    ]
+  },
+  {
+    "recording_id": "V13",
+    "phone": "Samsung Galaxy S25 Ultra",
+    "operations": [
+      "S-Pen removal",
+      "Back glass removal",
+      "Screw removal",
+      "Graphite film removal",
+      "Cable disconnection",
+      "Screw removal",
+      "Speaker removal",
+      "Cable disconnection",
+      "Battery removal",
+      "Screw removal",
+      "SIM tray removal",
+      "Motherboard removal",
+      "Screw removal",
+      "Motherboard removal"
+    ]
+  },
+  {
+    "recording_id": "V14",
+    "phone": "Samsung Galaxy S21",
+    "operations": [
+      "Back glass removal",
+      "Screw removal",
+      "Graphite film removal",
+      "Cable disconnection and cable removal",
+      "Motherboard removal",
+      "Screw removal",
+      "Motherboard removal",
+      "Battery removal"
+    ]
+  },
+  {
+    "recording_id": "V15",
+    "phone": "Pixel 10",
+    "operations": [
+      "Back glass removal",
+      "Screw removal",
+      "Graphite film removal",
+      "Battery removal",
+      "Screw removal",
+      "Speaker removal",
+      "Screw removal",
+      "Camera removal",
+      "Screw removal",
+      "Motherboard removal"
+    ]
+  },
+  {
+    "recording_id": "V16",
+    "phone": "Red Magic 11 Pro",
+    "operations": [
+      "Back glass heating and removal",
+      "Screw removal",
+      "Cable disconnection",
+      "Screw removal",
+      "Cable disconnection",
+      "Battery connector disconnection",
+      "Battery removal",
+      "Cable disconnection",
+      "Cable disconnection",
+      "Screw removal",
+      "Motherboard removal"
+    ]
+  },
+  {
+    "recording_id": "V17",
+    "phone": "iPhone 15 Pro Max",
+    "operations": [
+      "Bottom screw removal",
+      "Display heating and removal",
+      "Screw removal",
+      "Speaker removal",
+      "Vibration motor removal",
+      "Battery removal",
+      "Cable disconnection",
+      "Screw removal",
+      "Motherboard removal"
+    ]
+  },
+  {
+    "recording_id": "V18",
+    "phone": "Google Pixel 8 Pro",
+    "operations": [
+      "Display heating and removal",
+      "Display connector disconnection",
+      "Battery connector disconnection",
+      "Battery removal",
+      "Cable disconnection",
+      "Loudspeaker removal",
+      "Motherboard removal",
+      "Earpiece speaker removal"
+    ]
+  },
+  {
+    "recording_id": "V19",
+    "phone": "iPhone 14",
+    "operations": [
+      "Bottom screw removal",
+      "Back glass heating and removal",
+      "Screw removal",
+      "Battery connector disconnection",
+      "Screw removal",
+      "Cable disconnection",
+      "Back glass removal",
+      "Battery removal"
+    ]
+  },
+  {
+    "recording_id": "V20",
+    "phone": "iPhone Air",
+    "operations": [
+      "Bottom screw removal",
+      "Back glass removal",
+      "Screw removal",
+      "Cable disconnection",
+      "Screw removal",
+      "Battery connector disconnection",
+      "Battery removal",
+      "Screw removal",
+      "Cable disconnection",
+      "USB-C port removal",
+      "Screw removal",
+      "Cable disconnection",
+      "Front camera removal",
+      "Screw removal",
+      "Speaker removal",
+      "Motherboard connector disconnection",
+      "Motherboard screw removal",
+      "Display connector disconnection",
+      "Motherboard removal"
+    ]
+  }
+]

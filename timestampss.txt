@@ -1,0 +1,467 @@
+1. iPhone 18 Pro - https://youtu.be/slzp0IeWgTI?si=96k2qWsSg_06gzZy
+
+Start	End	Operation
+0:00	1:28	Noise
+1:28	1:36	Bottom screw removal
+1:36	1:55	Noise
+1:55	2:12	Back window removal
+2:12	2:16	Back glass opening
+2:16	2:38	Noise
+2:38	2:46	Wireless charger removal
+2:46	4:50	Noise
+4:50	4:58	Display removal
+4:58	5:45	Noise
+5:45	6:02	Vapor chamber removal
+6:02	6:22	Noise
+6:22	6:29	Battery removal
+6:29	7:04	Noise
+7:04	7:28	Charging port removal
+7:28	7:35	Speaker removal
+7:35	8:22	Noise
+8:22	8:30	Front camera removal
+8:30	8:38	Motherboard removal
+8:38	8:48	Rear camera removal
+8:48	9:43	Noise
+9:43	10:15	Rear camera module separation
+10:15	11:11	Noise
+
+2. Samsung Galaxy S25 Edge - https://youtu.be/3mSc3t19LRs?si=VAMxXCnefWlqR38n
+
+Start	End	Operation
+0:00	1:25	Noise
+1:25	1:31	Camera ring removal
+1:31	2:08	Noise
+2:08	2:18	Back glass heating
+2:18	2:32	Back glass removal
+2:32	2:53	Noise
+2:53	3:45	Noise
+3:45	3:56	Noise
+3:56	4:02	Wireless charging coil removal
+4:02	4:12	Noise
+4:12	4:19	Motherboard connector disconnection
+4:19	4:28	Front camera removal
+4:28	4:50	Noise
+4:50	5:09	Camera module removal / replacement test
+5:09	6:15	Noise
+6:15	6:28	Battery removal
+6:28	6:49	Noise
+6:49	6:57	SIM tray removal
+6:57	7:15	Sub-board removal
+7:15	7:26	USB-C port removal
+7:26	7:32	Noise
+7:32	7:36	Display heating
+7:36	7:45	Display removal
+7:45	7:51	Display removal
+7:51	8:02	Noise
+8:02	8:05	Graphite film removal
+8:05	8:47	Noise
+
+3. Samsung Galaxy S26 Ultra — https://youtu.be/PQ4EaUNbupA?si=NrU4tOi8ONZAxrG7
+
+Start	End	Operation
+0:00	3:43	Noise
+3:43	3:52	Back glass opening
+3:52	4:07	Back glass removal
+4:07	5:30	Noise
+5:30	5:35	Wireless charging cover removal
+5:35	5:45	Upper speaker removal / battery disconnection
+5:45	6:12	Noise
+6:12	6:22	Battery connector disconnection
+6:22	6:40	Cable disconnection
+6:40	6:51	Charging port and SIM tray removal
+6:51	7:31	Noise
+7:31	7:37	Battery removal
+7:37	8:24	Noise
+8:24	8:33	Motherboard removal
+8:33	8:55	Noise
+8:55	9:12	Display removal
+9:12	10:05	Noise
+
+4. iPhone 16e — https://youtu.be/yXmNIbxTtFA?si=EUBWE621aRSzKQc6
+
+Start	End	Operation
+0:00	1:42	Noise
+1:42	1:50	Back glass heating
+1:50	1:57	Back glass separation
+1:57	2:30	Noise
+2:30	2:46	Back glass removal
+2:46	3:32	Noise
+3:32	3:49	Battery removal
+3:49	5:24	Noise
+5:24	5:36	Motherboard removal
+5:36	7:21	Noise
+7:21	7:54	Display removal
+7:54	10:07	Noise
+
+5. Samsung Galaxy Z Fold 7 — https://youtu.be/47oNXKNcNAg?si=Wy3E05Ct4_nVS3Lw
+
+Start	End	Operation
+0:00	2:04	Noise
+2:04	2:42	Back glass and outer display opening
+2:42	3:43	Noise
+3:43	4:44	Outer display removal
+4:44	5:08	Noise
+5:08	5:14	Front display cover removal
+5:14	5:39	Noise
+5:39	5:57	Speaker removal
+5:57	6:06	Display connector disconnection
+6:06	6:45	Noise
+6:45	7:02	Battery removal
+7:02	8:07	Noise
+8:07	8:17	Motherboard removal
+8:17	8:51	Noise
+8:51	9:17	Battery removal
+9:17	9:56	Noise
+9:56	10:15	Inner display removal
+10:15	11:38	Noise
+
+6. iPhone 16 - https://youtu.be/Zh8T_zZNkCA?si=EXyxhPPDuOkktZvA
+Start	End	Operation
+0:00	2:39	Noise
+2:39	2:55	Bottom screw removal
+2:55	3:04	Noise
+3:04	3:30	Back glass heating
+3:30	4:33	Back glass removal
+4:33	5:05	Noise
+5:05	5:21	Back glass disconnection
+5:21	6:48	Noise
+6:48	7:04	Battery removal attempt
+7:04	7:28	Noise
+7:28	7:39	Battery removal attempt
+7:39	8:08	Noise
+8:08	8:54	Noise
+8:54	9:19	Battery removal
+9:19	9:26	Front camera and sensor removal
+9:26	9:35	Earpiece speaker removal
+9:35	9:51	Motherboard removal
+9:51	10:08	Noise
+10:08	10:17	Graphite film removal
+10:17	10:25	Screen removal
+10:25	12:50	Noise
+
+7. Samsung S24 Ultra - https://youtu.be/9PCTCNC7SIw?si=6WyE6hV_1AElwPJ0
+Start	End	Operation
+0:00	1:21	Noise
+1:21	1:24	Front screen protector removal
+1:24	1:45	Noise
+1:45	2:26	Back glass removal
+2:26	3:30	Noise
+3:30	3:53	Screw removal
+3:53	4:00	Cover removal
+4:00	4:07	Wireless charging coil removal
+4:07	4:15	Battery disconnection
+4:15	4:38	Noise
+4:38	4:54	Earpiece speaker removal
+4:54	5:10	Flex cable disconnection
+5:10	5:41	Battery removal
+5:41	6:13	Noise
+6:13	6:34	Charging port board removal
+6:34	6:42	SIM tray removal
+6:42	7:22	Noise
+7:22	7:39	Battery removal
+7:39	7:47	Noise
+7:47	8:02	Back glass vinyl removal
+8:02	8:19	Camera glass removal
+8:19	8:43	Noise
+8:43	8:51	Camera glass reassembly
+8:51	10:09	Noise
+
+8. Pixel 10 Pro — https://youtu.be/xXh_K0fodKM?si=7hkmn-W5eG183P9C
+Start	End	Operation
+0:00	3:12	Noise
+3:12	3:33	Display removal
+3:33	3:58	Noise
+3:58	4:43	Back glass removal
+4:43	4:55	Noise
+4:55	5:12	Back glass removal
+5:12	5:42	Noise
+5:42	5:57	Flex cable disconnection
+5:57	6:24	Back glass component removal
+6:24	6:32	Wireless charging coil reconnection
+6:32	7:03	Noise
+7:03	7:13	Loudspeaker removal
+7:13	7:21	Vibration motor removal
+7:21	7:40	Charging port board removal
+7:40	8:09	Battery removal
+8:09	8:56	Noise
+8:56	9:12	Motherboard screw removal
+9:12	9:31	Flex cable disconnection and SIM tray removal
+9:31	9:47	Motherboard removal
+9:47	10:58	Noise
+
+9. iPhone 17 Pro — https://youtu.be/nY1-BO07zN8?si=SPamJwm5SEgsdzMv
+Start	End	Operation
+0:00	1:15	Noise
+1:15	1:23	Bottom screw removal
+1:23	2:59	Noise
+2:59	4:05	Back glass removal
+4:05	4:11	Back glass disconnection
+4:11	5:04	Noise
+5:04	5:23	Display removal
+5:23	6:25	Noise
+6:25	6:28	Battery connector cover removal
+6:28	6:36	Battery connector access/removal
+6:36	6:43	Battery and display connector disconnection
+6:43	6:57	Noise
+6:57	7:10	Internal shield removal
+7:10	7:57	Noise
+7:57	8:06	Front camera removal
+8:06	8:15	Noise
+8:15	8:53	Earpiece speaker removal
+8:53	9:41	Noise
+9:41	9:49	Motherboard removal
+9:49	11:04	Noise
+11:04	11:10	Charging port removal
+11:10	11:17	Noise
+11:17	11:21	Battery removal
+11:21	12:12	Noise
+
+10. Samsung Galaxy S25 Ultra — https://youtu.be/FRfYuxsBqWE?si=kKwFSTciqOayCOa4
+Start	End	Label
+0:00	0:47	Noise
+0:47	0:53	Peel removal
+0:53	3:51	Noise
+3:51	4:14	Back glass removal
+4:14	4:50	Noise
+4:50	5:16	Shield/screw removal
+5:16	5:23	Noise
+5:23	5:29	Shield removal
+5:29	6:50	Noise
+6:50	6:54	S-Pen coil removal
+6:54	6:58	SIM tray removal
+6:58	7:08	Noise
+7:08	7:15	Battery and connector disconnection
+7:15	7:46	Noise
+7:46	8:02	Battery removal
+8:02	8:19	Noise
+8:19	8:24	Internal connector disconnection
+8:24	8:32	Motherboard removal
+8:32	9:01	Noise
+9:01	9:12	Bottom board screw removal
+9:12	9:19	Sub-board removal
+9:19	9:31	Noise
+9:31	9:37	Front camera removal
+9:37	10:03	Noise
+
+
+
+11. Samsung Galaxy S25 Edge - https://youtu.be/xjxHcdnOZIA?si=e32RzCnEFuRSb9JO
+Start  End    Operation
+0:00   0:53   Noise
+0:53   1:13   Back glass removal
+1:13   1:16   Screw removal
+1:16   1:20   Graphite film removal
+1:20   1:23   Noise
+1:23   1:25   SIM tray removal
+1:25   1:29   Screw removal
+1:29   1:32   Speaker removal
+1:32   1:54   Noise
+1:54   1:57   Screw removal
+1:57   2:06   Cable disconnection
+2:06   2:20   Battery removal
+2:20   2:39   Noise
+2:39   2:46   Screw removal
+2:46   3:00   Motherboard removal
+3:00   5:59   Noise
+
+
+
+12. Samsung Galaxy S26 Ultra - https://youtu.be/4lzgLXHCNtA?si=iErmPZ8wStlJb0qK
+Start  End    Operation
+0:00   0:26   Noise
+0:26   0:31   S-Pen removal
+0:31   1:09   Noise
+1:09   1:44   Back glass removal
+1:44   1:47   Screw removal
+1:47   1:49   Graphite film removal
+1:49   1:55   Cable disconnection
+1:55   1:59   Screw removal
+1:59   2:01   Speaker removal
+2:01   2:07   Cable disconnection
+2:07   2:13   Cable removal
+2:13   2:30   Battery removal
+2:30   3:30   Noise
+3:30   3:35   Screw removal
+3:35   3:54   Motherboard removal
+3:54   8:38   Noise
+
+
+
+
+13. Samsung Galaxy S25 Ultra - https://youtu.be/J4EVadpV_ew?si=zqzABrhvUtv8z5kX
+Start  End    Operation
+0:00   0:30   Noise
+0:30   0:32   S-Pen removal
+0:32   1:33   Noise
+1:33   2:17   Back glass removal
+2:17   2:20   Screw removal
+2:20   2:27   Graphite film removal
+2:27   2:36   Cable disconnection
+2:36   2:41   Screw removal
+2:41   2:45   Speaker removal
+2:45   2:49   Cable disconnection
+2:49   3:10   Battery removal
+3:10   3:45   Noise
+3:45   3:50   Screw removal
+3:50   4:00   SIM tray removal
+4:00   4:05   Motherboard removal
+4:05   4:07   Noise
+4:07   4:09   Screw removal
+4:09   4:16   Motherboard removal
+4:16   6:27   Noise
+
+
+
+
+14. Samsung Galaxy S21 - https://youtu.be/ElJ9S-aZCG8?si=ZnTGLzNd6_Bj9Pjq
+Start  End    Operation
+0:00   0:46   Noise
+0:46   1:05   Back glass removal
+1:05   1:07   Noise
+1:07   1:09   Screw removal
+1:09   1:14   Graphite film removal
+1:14   1:25   Cable disconnection and cable removal
+1:25   1:27   Motherboard removal
+1:27   2:01   Noise
+2:01   2:06   Screw removal
+2:06   2:09   Motherboard removal
+2:09   2:19   Noise
+2:19   2:27   Battery removal
+2:27   4:05   Noise
+
+
+
+15. Pixel 10 - https://youtu.be/Q0OGwjH8eBQ?si=4bDNHfUSpMJMpUbK
+Start  End    Operation
+0:00   0:20   Noise
+0:20   0:33   Back glass removal
+0:33   0:43   Screw removal
+0:43   0:47   Graphite film removal
+0:47   0:58   Noise
+0:58   1:15   Battery removal
+1:15   1:24   Noise
+1:24   1:32   Screw removal
+1:32   1:41   Speaker removal
+1:41   1:50   Screw removal
+1:50   1:53   Camera removal
+1:53   2:04   Noise
+2:04   2:15   Screw removal
+2:15   2:22   Motherboard removal
+2:22   4:52   Noise
+
+
+
+
+16. Red Magic 11 Pro - https://youtu.be/xHcglQFr-Ss
+Start  End    Operation
+0:00   0:43   Noise
+0:43   0:53   Back glass heating and removal
+0:53   1:19   Noise
+1:19   1:27   Screw removal
+1:27   1:33   Cable disconnection
+1:33   1:42   Screw removal
+1:42   1:54   Cable disconnection
+1:54   2:26   Noise
+2:26   2:37   Battery connector disconnection
+2:37   3:06   Battery removal
+3:06   3:26   Noise
+3:26   3:35   Cable disconnection
+3:35   3:40   Noise
+3:40   3:57   Cable disconnection
+3:57   4:05   Noise
+4:05   4:14   Screw removal
+4:14   4:25   Motherboard removal
+4:25   6:08   Noise
+
+
+
+
+17. iPhone 15 Pro Max - https://youtu.be/hmQHgWNAg24?si=cnoTMlQdkwHxjZlW
+Start  End    Operation
+0:00   0:36   Noise
+0:36   0:41   Bottom screw removal
+0:41   0:46   Noise
+0:46   1:04   Display heating and removal
+1:04   1:16   Noise
+1:16   1:19   Screw removal
+1:19   1:23   Speaker removal
+1:23   1:27   Vibration motor removal
+1:27   1:29   Noise
+1:29   1:39   Battery removal
+1:39   1:48   Noise
+1:48   1:54   Cable disconnection
+1:54   1:59   Screw removal
+1:59   2:46   Noise
+2:46   2:56   Motherboard removal
+2:56   6:26   Noise
+
+
+
+
+18. Google Pixel 8 Pro - https://youtu.be/aVm8S0EFKEw?si=lZPQO10hT0UqkkXx
+Start  End    Operation
+0:00   0:53   Noise
+0:53   1:10   Display heating and removal
+1:10   1:19   Display connector disconnection
+1:19   2:31   Noise
+2:31   2:39   Battery connector disconnection
+2:39   2:57   Battery removal
+2:57   3:15   Noise
+3:15   3:25   Cable disconnection
+3:25   3:50   Noise
+3:50   3:54   Loudspeaker removal
+3:54   4:01   Motherboard removal
+4:01   4:07   Earpiece speaker removal
+4:07   5:51   Noise
+
+
+
+
+19. iPhone 14 - https://youtu.be/P8OZYabd22w?si=2rSJjt50f5W_Y9mu
+Start  End    Operation
+0:00   0:52   Noise
+0:52   1:01   Bottom screw removal
+1:01   1:08   Noise
+1:08   2:19   Back glass heating and removal
+2:19   2:24   Screw removal
+2:24   2:39   Battery connector disconnection
+2:39   2:42   Screw removal
+2:42   2:46   Cable disconnection
+2:46   2:49   Back glass removal
+2:49   3:29   Battery removal
+3:29   5:07   Noise
+
+
+
+
+
+20. iPhone Air - https://youtu.be/woya8vjeFpo?si=xk40d1DGM8e6bb_K
+Start  End    Operation
+0:00   0:33   Noise
+0:33   0:41   Bottom screw removal
+0:41   0:50   Noise
+0:50   1:01   Back glass removal
+1:01   1:37   Noise
+1:37   1:41   Screw removal
+1:41   1:44   Cable disconnection
+1:44   2:19   Noise
+2:19   2:23   Screw removal
+2:23   2:26   Battery connector disconnection
+2:26   2:54   Noise
+2:54   3:09   Battery removal
+3:09   3:56   Noise
+3:56   4:04   Screw removal
+4:04   4:12   Cable disconnection
+4:12   4:24   USB-C port removal
+4:24   6:05   Noise
+6:05   6:11   Screw removal
+6:11   6:16   Cable disconnection
+6:16   6:26   Front camera removal
+6:26   6:39   Screw removal
+6:39   6:51   Noise
+6:51   6:56   Speaker removal
+6:56   7:02   Motherboard connector disconnection
+7:02   7:10   Motherboard screw removal
+7:10   7:16   Display connector disconnection
+7:16   7:20   Motherboard removal
+7:20   11:49  Noise

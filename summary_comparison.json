@@ -1,0 +1,46 @@
+[
+  {
+    "experiment": "Gemma original-order",
+    "model_or_baseline": "gemma3:4b",
+    "recordings": 20,
+    "valid_count": 16,
+    "valid_rate": 0.8,
+    "mean_edit_similarity": 0.833034188034188,
+    "exact_match_count": 11,
+    "source_summary": "gemma_evaluation\\summary.json",
+    "interpretation_note": "Agreement with observed annotations only; not proof of optimal or physically safe disassembly. Invalid permutations are excluded from order-agreement metrics. Repeated labels are scored by count."
+  },
+  {
+    "experiment": "Gemma shuffled-input",
+    "model_or_baseline": "gemma3:4b",
+    "recordings": 20,
+    "valid_count": 14,
+    "valid_rate": 0.7,
+    "mean_edit_similarity": 0.2546012247985932,
+    "exact_match_count": 0,
+    "source_summary": "gemma_planning_evaluation\\summary.json",
+    "interpretation_note": "Measures agreement with the annotated order after shuffling the operation list. Does not establish physical feasibility, safety, or optimality. This dataset contains 20 recordings."
+  },
+  {
+    "experiment": "Random baseline",
+    "model_or_baseline": "random_shuffle",
+    "recordings": 20,
+    "valid_count": null,
+    "valid_rate": null,
+    "mean_edit_similarity": 0.21823024344076974,
+    "exact_match_count": null,
+    "source_summary": "baseline_evaluation\\summary.json",
+    "interpretation_note": "Random order is a baseline, not a physically informed disassembly planner. Compare models on the same recordings."
+  },
+  {
+    "experiment": "Rule-based baseline",
+    "model_or_baseline": "leave_one_recording_out_pairwise_order_preferences",
+    "recordings": 20,
+    "valid_count": 20,
+    "valid_rate": 1.0,
+    "mean_edit_similarity": 0.3988419767367136,
+    "exact_match_count": 0,
+    "source_summary": "rule_baseline_evaluation\\summary.json",
+    "interpretation_note": "Pairwise order preferences are learned without the held-out recording. This is an observational baseline, not a physically verified or safety-aware planner. Ties use alphabetical order."
+  }
+]
